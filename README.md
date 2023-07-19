@@ -1,6 +1,6 @@
 # GraphQL geteway boilerplate with Nestjs
 
-Starter kit for building API gateway with GraphQL/Nest JS /MYSQL 
+Starter kit for building API gateway with GraphQL/NestJS/MYSQL 
 
 ## Setup
 
@@ -22,9 +22,9 @@ GraphQL playground is then accesible at
 
 ## Technologies
 
-* Node.js 18.16.0
+* Node.js > 16 
 * Apollo server
-* Official graphql-js schema builder
+* Official @nestjs/graphql
 * Nestjs
 * Full TypeScript support
 * Code first schema mode
